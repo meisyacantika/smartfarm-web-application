@@ -301,7 +301,9 @@ Additional project resources:
 - [Crop Irrigation Predictor – Hugging Face Spaces](https://huggingface.co/spaces/Miemey/crop-irrigation-predictor)
 - [Original Smart Agriculture Dataset – Kaggle](https://www.kaggle.com/datasets/chaitanyagopidesi/smart-agriculture-dataset)
 
+## Project Documentation
 
+**[SmartFarm_Web_Application Report (PDF)](https://drive.google.com/file/d/1NuyY2vmaYrYSV8w14SMgj0EQSGcKYo32/view?usp=drive_link)**
 ## Project Information
 
 **Project:** SmartFarm  
